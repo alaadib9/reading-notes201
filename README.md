@@ -7,4 +7,4 @@
 
 | No  | title  |   
 |---|---|
-| read1 |[ Introductory HTML and JavaScript] (https://github.com/alaadib9/reading-notes/class-01)|  
+| read1 |[ Introductory HTML and JavaScript](https://github.com/alaadib9/reading-notes/class-01) |  
