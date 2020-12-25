@@ -8,20 +8,20 @@
 |No   | Title |
  |-----|------|
  |Read 1 | [ Introductory HTML and JavaScript](https://github.com/alaadib9/reading-notes/class-01)   |
- |Read 2 | [](https://github.com/alaadib9/reading-notes/read2 ) |
-|Read 3| [](https://github.com/alaadib9/reading-notes/read3) |
-|Read 4| [](https://github.com/alaadib9/reading-notes/read4) |
-|Read 5| [](https://github.com/alaadib9/reading-notes/read5) |
-|Read 6| [](https://github.com/alaadib9/reading-notes/read6) |
-|Read 7| [](https://github.com/alaadib9/reading-notes/read7) |
-|Read 8| [](https://github.com/alaadib9/reading-notes/read8) |
-|Read 9| [](https://github.com/alaadib9/reading-notes/read9) |
-|Read 10| [](https://github.com/alaadib9/reading-notes/read10) |
-|Read 11| [](https://github.com/alaadib9/reading-notes/read11) |
-|Read 12| [](https://github.com/alaadib9/reading-notes/read12) |
-|Read 13| [](https://github.com/alaadib9/reading-notes/read13) |
-|Read 14| [](https://github.com/alaadib9/reading-notes/read14) |
-|Read 15| [](https://github.com/alaadib9/reading-notes/read15) |
+ |Read 2 | [read2](https://github.com/alaadib9/reading-notes/read2 ) |
+|Read 3| [read3](https://github.com/alaadib9/reading-notes/read3) |
+|Read 4| [read4](https://github.com/alaadib9/reading-notes/read4) |
+|Read 5| [read5](https://github.com/alaadib9/reading-notes/read5) |
+|Read 6| [read6](https://github.com/alaadib9/reading-notes/read6) |
+|Read 7| [read7](https://github.com/alaadib9/reading-notes/read7) |
+|Read 8| [read8](https://github.com/alaadib9/reading-notes/read8) |
+|Read 9| [read9](https://github.com/alaadib9/reading-notes/read9) |
+|Read 10| [read10](https://github.com/alaadib9/reading-notes/read10) |
+|Read 11| [read11](https://github.com/alaadib9/reading-notes/read11) |
+|Read 12| [read12](https://github.com/alaadib9/reading-notes/read12) |
+|Read 13| [read13](https://github.com/alaadib9/reading-notes/read13) |
+|Read 14| [read14](https://github.com/alaadib9/reading-notes/read14) |
+|Read 15| [read15](https://github.com/alaadib9/reading-notes/read15) |
 
 
 
