@@ -74,13 +74,9 @@ var userBirth = prompt("Enter your brith date")
 const currentYear = 2020;
 
 if ( userBirth < currentYear ) {
-
      var age = currentYear - userBirth
-
      alert(age)
-     
 } else {
-
   alert("Enter your brith date correctly ")
 }
 
