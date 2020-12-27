@@ -8,7 +8,7 @@
 |No   | Title |
  |-----|------|
  |Read 1 | [ Introductory HTML and JavaScript](https://alaadib9.github.io/reading-notes/class-01)   |
- |Read 2 | [read2](https://alaadib9.github.io/reading-notes/class-02) |
+ |Read 2 | [Class-02](class-02.md) |
 |Read 3| [read3](https://alaadib9.github.io/reading-notes/read3) |
 |Read 4| [read4](https://alaadib9.github.io/reading-notes/read4)|
 |Read 5| [read5](https://alaadib9.github.io/reading-notes/read5)|
