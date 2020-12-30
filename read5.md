@@ -1,3 +1,15 @@
+HTML Images Syntax
+The HTML <img> tag is used to embed an image in a web page.
+
+Images are not technically inserted into a web page; images are linked to web pages. The <img> tag creates a holding space for the referenced image.
+
+The <img> tag is empty, it contains attributes only, and does not have a closing tag.
+
+The <img> tag has two required attributes:
+
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image
+
 Choosing Images for Your Site :
 Images should:
 1) Be relevant
@@ -26,7 +38,11 @@ Three Rules for creating Images:
 2) Save images at the right size
 3) Use the correct resolution
 ### Image Dimensions
-Color not only brings your s XX ite to life, but also helps convey the mood and evokes reactions.
+Color not only brings your site to life, but also helps convey the mood and evokes reactions.
 There are three ways to specify colors in CSS:
 RGB values, hex codes, and color names.
  Color pickers can help you find the color you want
+
+ The width, height, and style attributes are all valid in HTML.
+
+
