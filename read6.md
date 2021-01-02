@@ -12,3 +12,5 @@ The Document Object Model (DOM) specifies how browsers should create a model of 
 The DOM is neither part of HTML, nor part of JavaScript; it is a separate set of rules.
 The DOM is called an object model because the model (the DOM tree) is made of objects.
 ! [DOM](read6.PNG) 
+
+The opening tags of HTML elements can carry attributes and these are represented by attribute nodes in the DOM tree
