@@ -1,3 +1,5 @@
+
+
 HTML Images Syntax
 The HTML <img> tag is used to embed an image in a web page.
 
