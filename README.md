@@ -21,6 +21,7 @@
 |Read 12| [read12](https://alaadib9.github.io/reading-notes/read12)|
 |Read 13| [read13](https://alaadib9.github.io/reading-notes/read13)|
 |Read 14| [read14](https://alaadib9.github.io/reading-notes/read14)|
+|Read 14b| [read14b]()|
 
 
 
